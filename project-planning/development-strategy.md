@@ -1,7 +1,8 @@
-# JavaScript Quiz
+# Todo List Project Development strategy
 
-...
+The project is about to build a web page that allows users to create as many lists as they want, each with a different title.
 
+Refactoring the todo list from WatchAndCode into a prototype object that can be used to create new list instances with `Object.create`.
 ---
 
 ## User Story Dependencies
@@ -18,26 +19,37 @@
 
 ## 0.Setup
 
+- Generate a repo from template
+- Turn on Github Page
+- Add collaborators on the project
+- Create project board and list the strategy plan
+- Write initial, basic README
 ---
 
 ## 1. Initialize Application
 
 __As a user I want to see the initial page when I load the site__
 
-- _Given [context] when [a specific action is performed] then [a set of consequences should occur]__
-- ...
+- Create code in index.html and style.css with JavaScript functions
 
 ### REPO
 
-- This user story is developed on branch `_`.
-- This branch is merged to `master` branch after completion.
+- Developed locally
+- Make a pull request
+- Merge with master
+- Write the code in .html and .css
 
-### Task A
+### Add to do list
+As a user I want to add todo list.
+- Developed on branch 
+- Add event listener to submit buttons
+- Stored data and render.
+### Edit todo list
 
-### Task B
+### Remove todo list
 
-### Task ...
+### Finishing Touch
 
 ---
 
-## ...
+
